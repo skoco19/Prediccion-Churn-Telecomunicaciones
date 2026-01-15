@@ -42,9 +42,4 @@ El análisis abarca desde el preprocesamiento de datos hasta la construcción y 
 *   **Matplotlib & Seaborn**: Visualización de datos y resultados.
 *   **ydata-profiling**: Análisis exploratorio de datos automatizado.
 
-## Cómo Replicar el Proyecto
 
-1.  **Clonar el Repositorio**: `git clone [URL_DE_TU_REPOSITORIO]`
-2.  **Instalar Dependencias**: `pip install -r requirements.txt` (asegúrate de crear este archivo con `pip freeze > requirements.txt`)
-3.  **Abrir el Notebook**: Abre el archivo `.ipynb` en Google Colab o Jupyter Notebook.
-4.  **Ejecutar las Celdas**: Ejecuta todas las celdas en orden para reproducir el análisis y el modelado.
